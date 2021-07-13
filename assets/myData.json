@@ -3,7 +3,7 @@
     "birthdate": "15 января 1979г.",
     "wishJob": {
         "name": "Frontend-разработчик",
-        "experience": "до 1 года",
+        "experience": "Junior",
         "workday": "Частичная занятость, полная занятость, проектная работа",
         "schedule": "Удаленная работа, гибкий график, полный день"
         },
@@ -32,10 +32,31 @@
         {
             "year": "ноябрь 2020-декабрь 2020",
             "institute": "Vladilen.ru",
-            "courseName": "Angular 9"
+            "courseName": "Angular 9. С нуля до профессионала"
+        },
+        {
+            "year": "апрель 2021-май 2021",
+            "institute": "udemy.com",
+            "courseName": " Python + Django: с нуля до коммерческих приложений"
         }
     ],
     "qualification": [
+        {
+            "year": "май 2021 - настоящее время",
+            "company": "ООО Центр Повышения эффективности",
+            "city": "Москва",
+            "companyLink": "",
+            "job": "Frontend-разработчик junior",
+            "duty": "New features developing, bugs fixing"
+        },
+        {
+            "year": "февраль 2021 - май 2021",
+            "company": "ООО Центр Повышения эффективности",
+            "city": "Москва",
+            "companyLink": "",
+            "job": "Frontend-разработчик стажер",
+            "duty": "New features developing, bugs fixing"
+        },
         {
             "year": "ноябрь 2019 - настоящее время",
             "company": "РТСофт, ЗАО",
@@ -109,7 +130,7 @@
             "duty": "Разработка экранов процесса, экранных форм для SCADA-системы MicroSCADA, разработка приложений для SCADA-системы MicroSCADA, MS Office на встроенном языке программирования SCIL, языках программирования VB, VBA."
         }
     ],
-    "mainScills": ["Опыт программирования на C#, VB, VBA", "HTML5", "CSS3", "JavaScript", "VueJS", "ReactJS", "REDUX", "Angular", "Bootstrap", "LESS, SASS, SCSS", "Git", "SQL", "Gulp, Webpack по документации и примерам"],
+    "mainScills": ["Опыт программирования на C#, VB, VBA", "HTML5", "CSS3", "JavaScript", "VueJS", "ReactJS", "REDUX", "Angular", "Bootstrap", "LESS, SASS, SCSS", "Git", "SQL", "Gulp, Webpack"],
     "languages": {
         "russian": "Русский (родной)",
         "english": "Английский (pre-intermidiate)"
@@ -127,6 +148,13 @@
     ],
     "sertificates":[
         {
+            "school": "udemy.com",
+            "fullName": " Python + Django: с нуля до коммерческих приложений",
+            "date": "28 мая 2021г.",
+            "description": [],
+            "src": "../../../assets/img/sertificates/Udemy_Python-Django_28-05-2021.jpg"
+        },
+        {
           "school": "Vladilen.ru",
           "fullName": "Angular 9. С нуля до профессионала",
           "date": "29 декабря 2020г.",
@@ -142,7 +170,7 @@
        },
        {
            "school": "GeekBrains",
-           "fullName": "Занимательные элементы интерфейса в HTML/CSS",
+           "fullName": "Git. Базовый курс",
            "date": "26 марта 2020г.",
            "description": [],
            "src": "../../../assets/img/sertificates/GitBase.webp"
@@ -321,6 +349,13 @@
             "date": "23 ноября 2015г.",
             "description": [],
             "src": "../../../assets/img/sertificates/Git_quickStart.webp"
+        },
+        {
+            "school": "GeekBrains",
+            "fullName": "PHP. Личный блог",
+            "date": "17 ноября 2015г.",
+            "description": [],
+            "src": "../../../assets/img/sertificates/Php_blog.webp"
         },
         {
             "school": "Школа технологий бизнеса",
