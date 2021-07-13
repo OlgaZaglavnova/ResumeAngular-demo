@@ -162,6 +162,13 @@
     "tests": [],
     "sertificates": [
         {
+            "school": "udemy.com",
+            "fullName": " Python + Django: from start to commercial applications",
+            "date": "May 28, 2021",
+            "description": [],
+            "src": "assets/img/sertificates/Udemy_Python-Django_28-05-2021.jpg"
+        },
+        {
             "school": "Vladilen.ru",
             "fullName": "Angular 9. From beginner upto professional",
             "date": "December 29, 2020",
