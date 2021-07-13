@@ -130,7 +130,23 @@
             "duty": "MicroSCADA process screens and forms development; MicroSCADA and MS Office applications development using SCIL, VB, VBA programming languages."
         }
     ],
-    "mainScills": ["C#, VB, VBA programming experience", "HTML5", "CSS3", "JavaScript", "VueJS", "ReactJS", "REDUX", "Angular", "Bootstrap", "LESS, SASS, SCSS", "Git", "SQL", "Gulp, Webpack"],
+    "mainScills": [
+        "C#, VB, VBA programming experience", 
+        "HTML5", 
+        "CSS3", 
+        "JavaScript", 
+        "VueJS", 
+        "ReactJS", 
+        "REDUX", 
+        "Angular, ngRx", 
+        "Bootstrap", 
+        "LESS, SASS, SCSS", 
+        "Git", 
+        "SQL", 
+        "Gulp, Webpack",
+        "Python",
+        "Django"
+    ],
     "languages": {
         "russian": "Russian (native)",
         "english": "English (pre-intermidiate)"

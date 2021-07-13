@@ -130,7 +130,23 @@
             "duty": "Разработка экранов процесса, экранных форм для SCADA-системы MicroSCADA, разработка приложений для SCADA-системы MicroSCADA, MS Office на встроенном языке программирования SCIL, языках программирования VB, VBA."
         }
     ],
-    "mainScills": ["Опыт программирования на C#, VB, VBA", "HTML5", "CSS3", "JavaScript", "VueJS", "ReactJS", "REDUX", "Angular", "Bootstrap", "LESS, SASS, SCSS", "Git", "SQL", "Gulp, Webpack"],
+    "mainScills": [
+        "Опыт программирования на C#, VB, VBA", 
+        "HTML5", 
+        "CSS3", 
+        "JavaScript", 
+        "VueJS", 
+        "ReactJS", 
+        "REDUX", 
+        "Angular, ngRx", 
+        "Bootstrap", 
+        "LESS, SASS, SCSS", 
+        "Git", 
+        "SQL", 
+        "Gulp, Webpack",
+        "Python",
+        "Django"
+    ],
     "languages": {
         "russian": "Русский (родной)",
         "english": "Английский (pre-intermidiate)"
